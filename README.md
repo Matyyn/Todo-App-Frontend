@@ -1,9 +1,14 @@
-###Installation:
-First, install the required node modules using the following command:
-##code 
-npm install
 
-###Running the Application:
-Start the React Vite Application by executing the following command:
-##code
-npm run dev
+# Exams Todo App Front End
+
+This is Exams Todo App Front End
+
+Run the command below in your project folder terminal to install the node modules:
+```bash
+  npm install
+```
+
+Run the command below in your project folder terminal to start the project:
+```bash
+  npm run dev
+```
