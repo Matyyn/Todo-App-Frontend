@@ -1,10 +1,7 @@
-# Todo-App-Frontend
-This is the Exams Todo App Front End.
-
-Instructions:
-
-First Step is to install the node modules using the below command:
+Installation:
+First, install the required node modules using the following command:
 npm install
 
-Second Step is to start the React Vite Application using the below command:
+Running the Application:
+Start the React Vite Application by executing the following command:
 npm run dev
